@@ -4,51 +4,51 @@ const mediaFiles = [
     {
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
-        type: "Fm"
+        type: "Mp4"
     },
     { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
-        type: "Fm"
+        type: "Mp4"
     },
     {
-        name: "Circuito líder 94.9",
-        url: "https://stream-162.zeno.fm/pv120nq8e8zuv?zs=1T27FKTDRC-SQ7vEVXLvCA",
-        type: "Fm"
+        name: "Osos Maltín",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
     {
-        name: "Onda La super estación 107.9",
-        url: "https://acp4.lorini.net/proxy/ur2060?mp=/stream",
-        type: "Fm"
+        name: "Tortugas de la Sábana",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
     { 
-        name: "Unión radio 90.3",
-        url: "https://acp4.lorini.net/proxy/ur2080?mp=/stream",
-        type: "Fm"
+        name: "Hacolnes de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
     
     { 
-        name: "La mega 107.3",
-        url: "https://acp4.lorini.net/proxy/ur2050?mp=/stream",
-        type: "Fm"
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
     
     { 
-        name: "Circuito éxitos 99.9",
-        url: "https://acp4.lorini.net/proxy/ur2070?mp=/stream",
-        type: "Fm"
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
 
    { 
-        name: "Deportivisima 91.5",
-        url: "https://sp.panelchs.com/8066/stream",
-        type: "Fm"
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     }, 
     
     { 
-        name: "Talento 102.7",
-        url: "https://cloudstream2036.conectarhosting.com/8398/stream",
-        type: "Fm"
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Mp4"
     },
    
 ];
