@@ -2,13 +2,13 @@
 const mediaFiles = [
     
     {
-        name: "Activa 104.9",
+        name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
         type: "Fm"
     },
     { 
-        name: "Guaraña 97.5",
-        url: "https://sp.wnetserver.com/8016/stream",
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
         type: "Fm"
     },
     {
