@@ -3,7 +3,7 @@ const mediaFiles = [
     
     {
         name: "Activa 104.9",
-        url: "https://stream-150.zeno.fm/t31pbasum7zuv?zs=YZf30L3bQU2O2ubbISeTHQ",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/IMG_20241122_163325.png",
         type: "Fm"
     },
     { 
