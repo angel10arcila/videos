@@ -46,9 +46,9 @@ const mediaFiles = [
     }, 
     
     { 
-        name: "Mlb - juegos del pasado",
-        url: "https://linear-843.frequency.stream/mt/studio/843/hls/master/playlist.m3u8",
-        type: "TV"
+        name: "Halcones de Venezuela ",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Vídeo"
     },
    
 ];
