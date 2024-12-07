@@ -4,45 +4,45 @@ const mediaFiles = [
     {
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     {
         name: "Osos Maltín",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Osos-Maltín.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     {
         name: "Tortugas de la Sábana",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Tortugas de la Sabana.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     { 
         name: "Uniforme de las Tortugas",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Uniforme de las Tortugas.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     
     { 
         name: "Uniforme de los Halcones",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Uniforme de los Halcones.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
     
     { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Halcones de Venezuela 1.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     },
 
    { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
-        type: "Mp4"
+        type: "Vídeo"
     }, 
     
     { 
