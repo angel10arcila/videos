@@ -35,13 +35,13 @@ const mediaFiles = [
     
     { 
         name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Halcones de Venezuela 1.mp4",
         type: "Mp4"
     },
 
    { 
         name: "Halcones de Venezuela",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
         type: "Mp4"
     }, 
     
