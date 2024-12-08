@@ -13,7 +13,7 @@ const mediaFiles = [
     },
     {
         name: "Osos Maltín",
-        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Osos-Maltín.mp4",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Osos-Maltín2.mp4",
         type: "Vídeo"
     },
     {
