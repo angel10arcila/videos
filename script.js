@@ -2,8 +2,8 @@
 const mediaFiles = [
     
     {
-        name: "Día de Las Madre",
-        url: "https://www.dailymotion.com/cdn/manifest/video/x9j2yf2.m3u8?sec=K9pIBRGmgf612A2xkT9f7MRPT53lnZ3lGgyYnssA8E1bmYjTfWSELAruuhdloma65bZxK78hIroQUTPYs78vLA&dmTs=378494&dmV1st=70090ef7-bbbe-62ab-dfe7-e27bfd5e6208",
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
         type: "Vídeo"
     },
     { 
