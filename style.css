@@ -143,4 +143,48 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
-    
+.profile-thumb2 {
+      position: absolute;
+      top: 185px; right: 32px;
+      width:38px; height: 38px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+    .profile-thumb3 {
+      position: absolute;
+      top: 265px; right: 32px;
+      width:38px; height: 38px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+    .profile-thumb4 {
+      position: absolute;
+      top: 225px; right: 32px;
+      width:38px; height: 38px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+    }
+    .profile-thumb5 {
+      position: absolute;
+      top: 305px; right: 32px;
+      width:38px; height: 38px;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px #0005;
+      object-fit: cover;
+      border: 2px solid #transparent;
+      z-index: 2;
+      pandding: 20px;
+}
+
