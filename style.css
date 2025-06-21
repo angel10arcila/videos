@@ -134,7 +134,7 @@ button:hover {
 
 .profile-thumb {
       position: absolute;
-      top: 280px; left: 32px;
+      top: 315px; left: 32px;
       width:38px; height: 38px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
@@ -155,6 +155,12 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
+    
+.profile-thumb2:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
+
     .profile-thumb3 {
       position: absolute;
       top: 255px; right: 32px;
@@ -166,6 +172,11 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
+    
+.profile-thumb3:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
     .profile-thumb4 {
       position: absolute;
       top: 215px; right: 32px;
@@ -177,6 +188,12 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
+    
+.profile-thumb4:hover {
+   background: #fff;
+  transform: scale(1.05);
+  }
+
     .profile-thumb5 {
       position: absolute;
       top: 295px; right: 32px;
@@ -189,3 +206,7 @@ button:hover {
       pandding: 20px;
     }
  
+.profile-thumb5:hover {
+   background: #fff;
+  transform: scale(1.05);
+}
