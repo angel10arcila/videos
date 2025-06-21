@@ -143,11 +143,11 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
-
+  
 .profile-thumb2 {
       position: absolute;
-      top: 175px; right: 32px;
-      width:38px; height: 38px;
+      top: 405px; right: 239px;
+      width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
       object-fit: cover;
@@ -163,8 +163,8 @@ button:hover {
 
     .profile-thumb3 {
       position: absolute;
-      top: 255px; right: 32px;
-      width:38px; height: 38px;
+      top: 405px; right: 160px;
+      width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
       object-fit: cover;
@@ -177,10 +177,11 @@ button:hover {
    background: #fff;
   transform: scale(1.05);
 }
+
     .profile-thumb4 {
       position: absolute;
-      top: 215px; right: 32px;
-      width:38px; height: 38px;
+      top: 405px; right: 199px;
+      width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
       object-fit: cover;
@@ -188,16 +189,17 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
-    
+
 .profile-thumb4:hover {
    background: #fff;
   transform: scale(1.05);
-  }
+}
 
+ 
     .profile-thumb5 {
       position: absolute;
-      top: 295px; right: 32px;
-      width:38px; height: 38px;
+      top: 405px; right: 120px;
+      width:28px; height: 28px;
       border-radius: 50%;
       box-shadow: 0 2px 8px #0005;
       object-fit: cover;
@@ -205,8 +207,9 @@ button:hover {
       z-index: 2;
       pandding: 20px;
     }
- 
+
 .profile-thumb5:hover {
    background: #fff;
   transform: scale(1.05);
-}
+  }
+  
