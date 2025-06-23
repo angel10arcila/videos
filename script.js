@@ -17,8 +17,8 @@ const mediaFiles = [
         type: "Tv"
     },
     {
-        name: "Mlb 3",
-        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
+        name: "Mlb - Mauricio Dubon",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/8f0c77bd-04a6f100-a3d37160-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     },
   
