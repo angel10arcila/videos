@@ -7,8 +7,8 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb",
-        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=kgY-zCm5z2sj_Gt5Vw4IQWZnQfPbznSLNoP7KJbD9qI&e=1750618562",
+        name: "Mlb - Salvador Pérez",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4cc061dc-78e3cc75-e13a5d26-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     }, 
     {
