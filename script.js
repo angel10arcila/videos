@@ -12,8 +12,8 @@ const mediaFiles = [
         type: "Tv"
     }, 
     {
-        name: "Mlb 2",
-        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=eqncpkrJXqO6q6xY1VBQcVoVoCdvAIzsevFfUq0k3Pw&e=1750618675",
+        name: "Mlb - Jesús Luzardo",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4d4b8c32-c58e78d6-9cf5219d-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     },
     {
