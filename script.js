@@ -21,6 +21,12 @@ const mediaFiles = [
         url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
         type: "Tv"
     },
+  
+    {
+        name: "Mlb - Celebración LA",
+        url: "https://adhoc-hlslive-fst-gcp.mlb.com/2a0a8a55-0b87-4d01-b716-fab23d2907cb/LIVE-Dodgers-2024-World-Series-Parade.m3u8",
+        type: "Tv"
+    },        
     {
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
