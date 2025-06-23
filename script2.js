@@ -1,6 +1,26 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
-    
+
+        {
+        name: "Mlb jugadas destacadas",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
+        type: "Tv"
+    }, 
+    {
+        name: "Mlb",
+        url: "https://eastcaster.pro/hls/bzagLHzach19.m3u8?st=kgY-zCm5z2sj_Gt5Vw4IQWZnQfPbznSLNoP7KJbD9qI&e=1750618562",
+        type: "Tv"
+    }, 
+    {
+        name: "Mlb 2",
+        url: "https://edge1caster.pro/hls/dzjhkfazbka26.m3u8?st=eqncpkrJXqO6q6xY1VBQcVoVoCdvAIzsevFfUq0k3Pw&e=1750618675",
+        type: "Tv"
+    },
+    {
+        name: "Mlb 3",
+        url: "https://eastcaster.pro/hls/hfzljfahzcax29.m3u8?st=7p-_8hG0AgeKLIt0ZY5ZDIDEYl9_IIe4TokAwJDdpWc&e=1750618757",
+        type: "Tv"
+    },
     {
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
