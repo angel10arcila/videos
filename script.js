@@ -1,12 +1,16 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
- {
+   {
         name: "Mlb - Ronald Acuña",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/9670df20-d8684e9d-12c357dd-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     },
-    
+    {
+        name: "Mlb - Juan Soto",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/0dccf2d1-fb8938a2-c0e54ec3-csvm-diamondgcp-asset.m3u8",
+        type: "Tv"
+    },
    {
         name: "Mlb jugadas destacadas",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
