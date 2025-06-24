@@ -30,12 +30,6 @@ const mediaFiles = [
         name: "Mlb - Mauricio Dubon",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/8f0c77bd-04a6f100-a3d37160-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
-    },
-  
-    {
-        name: "Mlb - Celebración LA",
-        url: "https://adhoc-hlslive-fst-gcp.mlb.com/2a0a8a55-0b87-4d01-b716-fab23d2907cb/LIVE-Dodgers-2024-World-Series-Parade.m3u8",
-        type: "Tv"
     },        
     {
         name: "Halcones de Venezuela",
