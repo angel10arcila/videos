@@ -3,7 +3,7 @@ const mediaFiles = [
 
    
    {
-        name: "Mlb- jugadas destacadas del martes",
+        name: "Mlb - lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     }, 
@@ -18,7 +18,7 @@ const mediaFiles = [
         type: "Tv"
     },
    {
-        name: "Mlb- jugadas destacadas del domingo",
+        name: "Mlb - lo mejor del domingo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
         type: "Tv"
     }, 
