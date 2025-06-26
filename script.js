@@ -1,7 +1,11 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
-   
+   {
+        name: "Mlb - lo mejor del miércoles",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
+        type: "Tv"
+    },
    {
         name: "Mlb - lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
