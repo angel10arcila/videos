@@ -4,7 +4,7 @@ const mediaFiles = [
    {
         name: "Mlb - lo mejor del miércoles",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     },
    { 
         name: "Halcones de Venezuela",
@@ -14,37 +14,37 @@ const mediaFiles = [
    {
         name: "Mlb - lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     }, 
    {
         name: "Mlb - Ronald Acuña",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/9670df20-d8684e9d-12c357dd-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     },
     {
         name: "Mlb - Juan Soto",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/0dccf2d1-fb8938a2-c0e54ec3-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     },
    {
         name: "Mlb - lo mejor del domingo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     }, 
     {
         name: "Mlb - Salvador Pérez",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4cc061dc-78e3cc75-e13a5d26-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     }, 
     {
         name: "Mlb - Jesús Luzardo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4d4b8c32-c58e78d6-9cf5219d-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     },
     {
         name: "Mlb - Mauricio Dubon",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/8f0c77bd-04a6f100-a3d37160-csvm-diamondgcp-asset.m3u8",
-        type: "Tv"
+        type: "Video"
     },        
     {
         name: "Halcones de Venezuela",
