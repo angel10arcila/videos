@@ -10,7 +10,12 @@ const mediaFiles = [
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
         type: "Vídeo"
-    },  
+    }, 
+   {
+         name: "Halkin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Halkin versión 4 - Ángel José Arcila Parra.mp3",
+         type: "audio"
+     },
    {
       name:"Mlb - Hunter Brown",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/9f8c109e-6d39680b-c8fc204a-csvm-diamondgcp-asset.m3u8",
