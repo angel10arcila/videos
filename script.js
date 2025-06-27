@@ -2,6 +2,11 @@
 const mediaFiles = [
 
    {
+      name: "Mlb - Gleyber Torres",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/b8bf2b67-18a92268-35f2cfaf-csvm-diamondgcp-asset.m3u8",
+      type: "video"
+   },
+   {
         name: "Mlb - lo mejor del miércoles",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
