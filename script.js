@@ -2,6 +2,11 @@
 const mediaFiles = [
 
    {
+      name:"Mlb - Hunter Brown",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/9f8c109e-6d39680b-c8fc204a-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   {
       name: "Mlb - Cam Smith",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/e0dac6c8-99205334-62a512ad-csvm-diamondgcp-asset.m3u8",
       type: "Video"
