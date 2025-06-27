@@ -2,10 +2,25 @@
 const mediaFiles = [
 
    {
+      name: "Mlb - Resumen Atlanta vs New York",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/36f66225-325b9ebe-8e3e9452-csvm-diamondgcp-asset.m3u8",
+       type: "Video"
+   },   
+   { 
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Vídeo"
+    },  
+   {
       name:"Mlb - Hunter Brown",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/9f8c109e-6d39680b-c8fc204a-csvm-diamondgcp-asset.m3u8",
       type: "Video"
-   },
+   },   
+   { 
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Vídeo"
+    },
    {
       name: "Mlb - Cam Smith",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/e0dac6c8-99205334-62a512ad-csvm-diamondgcp-asset.m3u8",
