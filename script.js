@@ -50,7 +50,12 @@ const mediaFiles = [
         name: "Mlb - lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
-    }, 
+    },
+   {
+         name: "Tortuguin - Ángel José Arcila Parra",
+         url: "https://raw.githubusercontent.com/angel10arcila/angeljosearcilaparra/refs/heads/main/Tortuguin - Ángel José Arcila Parra.mp3.mp3",
+         type: "audio"
+     },
    {
         name: "Mlb - Ronald Acuña",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/9670df20-d8684e9d-12c357dd-csvm-diamondgcp-asset.m3u8",
