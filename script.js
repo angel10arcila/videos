@@ -2,6 +2,11 @@
 const mediaFiles = [
 
    {
+      name: "Mlb - Cam Smith",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/e0dac6c8-99205334-62a512ad-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   {
       name: "Mlb - Gleyber Torres",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/b8bf2b67-18a92268-35f2cfaf-csvm-diamondgcp-asset.m3u8",
       type: "video"
