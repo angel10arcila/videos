@@ -187,10 +187,11 @@ button:hover {
       border: 2px solid #transparent;
       z-index: 2;
       pandding: 20px;
+      background: #fff;
     }
     
 .profile-thumb2:hover {
-   background: #fff;
+   background: #000080;
   transform: scale(1.05);
 }
 
@@ -204,10 +205,11 @@ button:hover {
       border: 2px solid #transparent;
       z-index: 2;
       pandding: 20px;
+      background: #fff;
     }
     
 .profile-thumb3:hover {
-   background: #fff;
+   background: #000080;
   transform: scale(1.05);
 }
 
@@ -221,10 +223,11 @@ button:hover {
       border: 2px solid #transparent;
       z-index: 2;
       pandding: 20px;
+      background: #fff;
     }
 
 .profile-thumb4:hover {
-   background: #fff;
+   background: #000080;
   transform: scale(1.05);
 }
 
@@ -239,10 +242,11 @@ button:hover {
       border: 2px solid #transparent;
       z-index: 2;
       pandding: 20px;
+      background: #fff;
     }
 
 .profile-thumb5:hover {
-   background: #fff;
+   background: #000080;
   transform: scale(1.05);
   }
   
