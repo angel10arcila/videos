@@ -18,6 +18,12 @@ const mediaFiles = [
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/30503e9d-efa5f275-e6c366a8-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
+
+   {
+      name: "Mlb - Resumen - PHI vs ATL",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/897cde79-e758d8f5-c177577c-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
    
    {
       name: "Mlb - Resumen ATL vs NYM",
