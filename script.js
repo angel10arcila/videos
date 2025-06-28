@@ -8,7 +8,7 @@ const mediaFiles = [
    },
    
    {
-      name: "Mlb - Resumen CHC Vs HOU",
+      name: "Mlb - Resumen CHC vs HOU",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/16b5c96a-a73ee84b-56e09596-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
