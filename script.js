@@ -1,101 +1,115 @@
 // Configuración de medios predefinidos
 const mediaFiles = [
 
-   {
-      name: "Venearci",
-      url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
-      type: "..."
-   },
+   
    {
       name: "Mlb - Resumen Atl vs Ny",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/36f66225-325b9ebe-8e3e9452-csvm-diamondgcp-asset.m3u8",
        type: "Video"
-   },   
+   },  
+   
    { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
         type: "Vídeo"
     }, 
+   
    {
       name:"Mlb - Hunter Brown",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/9f8c109e-6d39680b-c8fc204a-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },   
+   
    { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
         type: "Vídeo"
     },
+   
    {
       name: "Mlb - Cam Smith",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/e0dac6c8-99205334-62a512ad-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
+   
    {
       name: "Mlb - Gleyber Torres",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/26/b8bf2b67-18a92268-35f2cfaf-csvm-diamondgcp-asset.m3u8",
       type: "video"
    },
+   
    {
         name: "Mlb - lo mejor del miércoles",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
+   
    { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
         type: "Vídeo"
     },
+   
    {
         name: "Mlb - lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
+   
    {
         name: "Mlb - Ronald Acuña",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/9670df20-d8684e9d-12c357dd-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
+   
     {
         name: "Mlb - Juan Soto",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/23/0dccf2d1-fb8938a2-c0e54ec3-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
+   
    {
         name: "Mlb - lo mejor del domingo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
         type: "Video"
-    }, 
+    },
+   
     {
         name: "Mlb - Salvador Pérez",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4cc061dc-78e3cc75-e13a5d26-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     }, 
+   
     {
         name: "Mlb - Jesús Luzardo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/4d4b8c32-c58e78d6-9cf5219d-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
+   
     {
         name: "Mlb - Mauricio Dubon",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/8f0c77bd-04a6f100-a3d37160-csvm-diamondgcp-asset.m3u8",
         type: "Video"
-    },        
+    },   
+   
     {
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HalconesdeVenezuela.mp4",
         type: "Vídeo"
     },
+   
     { 
         name: "Halcones de Venezuela",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
         type: "Vídeo"
     },
+   
     {
         name: "Osos Maltín",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Osos-Maltín2.mp4",
         type: "Vídeo"
     },
+   
     {
         name: "Tortugas de la Sábana",
         url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/Tortugas de la Sabana.mp4",
