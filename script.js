@@ -6,7 +6,11 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video4.mp4",
      type: "..."
    },
-
+   {
+      name: "Mlb - Resumen PHI vs ATL",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/471eac69-edf1e5b1-7db12e5f-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
    {
       name: "Mlb - Resumen NYM vs PIT",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/6a3b8e6d-4e63bb11-8100999b-csvm-diamondgcp-asset.m3u8",
@@ -68,7 +72,7 @@ const mediaFiles = [
    },
    
    {
-        name: "Mlb - lo mejor del miércoles",
+        name: "Mlb - Lo mejor del miércoles",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
@@ -80,7 +84,7 @@ const mediaFiles = [
     },
    
    {
-        name: "Mlb - lo mejor del martes",
+        name: "Mlb - Lo mejor del martes",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/24/24e19a3f-efd679cb-7924fb31-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
@@ -98,7 +102,7 @@ const mediaFiles = [
     },
    
    {
-        name: "Mlb - lo mejor del domingo",
+        name: "Mlb - Lo mejor del domingo",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/22/dd148b23-bd5270c7-d07bef10-csvm-diamondgcp-asset.m3u8",
         type: "Video"
     },
