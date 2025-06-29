@@ -6,22 +6,31 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
      type: "..."
    },
+
    {
       name: "Mlb - Kyle Tucker's",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/a91968b0-ac247cf0-4b8fc545-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
+
+   {
+      name: "Mlb - Resumen CHC vs HOU",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/58e990fa-ec5e7841-05ac8562-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+
    {
       name: "Mlb - Resumen PHI vs ATL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/471eac69-edf1e5b1-7db12e5f-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
+
    {
       name: "Mlb - Resumen NYM vs PIT",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/6a3b8e6d-4e63bb11-8100999b-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
-   
+
    {
       name: "Mlb - Resumen CHC vs HOU",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/27/16b5c96a-a73ee84b-56e09596-csvm-diamondgcp-asset.m3u8",
