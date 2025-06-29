@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "Mlb - Resumen NYM - PIT",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/96304740-06a17576-59f1a5c6-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+
+   {
       name: "Mlb - Kyle Tucker's",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/28/a91968b0-ac247cf0-4b8fc545-csvm-diamondgcp-asset.m3u8",
       type: "Video"
