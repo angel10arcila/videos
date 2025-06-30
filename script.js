@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "©Mlb - José Altuve",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/ec19d439-948c9a54-ed6aa786-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+
+   {
       name: "©Mlb - Resumen CHC vs HOU",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/48be9bad-5ab99ba1-2e4edd0d-csvm-diamondgcp-asset.m3u8",
       type: "Video"
