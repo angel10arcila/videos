@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "®Mlb - Resumen LAA - ATL",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/02e02350-b81f0b5f-a3ac8e27-csvm-diamondgcp-asset.m3u8",
+      type: "Vídeo"
+   },
+
+   {
       name: "©Mlb - José Altuve",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-06/29/ec19d439-948c9a54-ed6aa786-csvm-diamondgcp-asset.m3u8",
       type: "Video"
