@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "©Mlb - Resumen HOU - COL",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/02bd0488-8e27f2ac-0be34a6d-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+
+   {
       name: "®Mlb - Resumen LAA - ATL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/02e02350-b81f0b5f-a3ac8e27-csvm-diamondgcp-asset.m3u8",
       type: "Vídeo"
