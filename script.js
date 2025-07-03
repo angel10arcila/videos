@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "©Mlb - Resumen #1 - MIL vs NYM",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/02/bc0cb2e9-e0c3230e-d056a8fa-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   
+   {
       name: "©Mlb - Resumen HOU - COL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/01/02bd0488-8e27f2ac-0be34a6d-csvm-diamondgcp-asset.m3u8",
       type: "Video"
