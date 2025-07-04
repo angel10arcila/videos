@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
    {
+      name: "©Mlb - Resumen HOU vs COL",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/066e9828-cff91064-074f071a-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   
+   {
       name: "©Mlb - Resumen LAA vs ATL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/03/fd23d24d-dd417df9-e29c38d0-csvm-diamondgcp-asset.m3u8",
       type: "Video"
