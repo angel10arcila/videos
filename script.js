@@ -8,7 +8,7 @@ const mediaFiles = [
    },
 
    {
-      name: "©Mlb - Resumen BAL vs ATL",
+      name: "©Mlb - Resumen NYY vs NYM",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/04/0cdc9f3c-ed49bf32-a5049ce7-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
