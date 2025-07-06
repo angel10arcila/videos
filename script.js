@@ -8,10 +8,17 @@ const mediaFiles = [
    },
 
    {
+      name: "©Mlb - José Altuve",
+      url: "https://www.mlbstatic.com/mlb.com/mlbtv/video/autoplay-test.mp4",
+      type: "Video"
+   },
+
+   {
       name: "©Mlb - Salvador Pérez",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/1a558997-b61487c9-ef34c444-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
+   
    {
       name: "©Mlb - Resumen BAL vs ATL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/05/07500ef9-4932a030-f3bab6fc-csvm-diamondgcp-asset.m3u8",
