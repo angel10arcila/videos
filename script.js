@@ -15,7 +15,7 @@ const mediaFiles = [
    
    {
       name: "©Mlb - José Altuve",
-      url: "https://www.mlbstatic.com/mlb.com/mlbtv/video/autoplay-test.mp4",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/178a634b-43203bf9-ccedf9de-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
 
