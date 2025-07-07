@@ -9,7 +9,7 @@ const mediaFiles = [
 
    {
       name: "©Mlb - Resumen BAL vs ATL",
-      url: "https://www.mlbstatic.com/mlb.com/mlbtv/video/autoplay-test.mp4",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/31834bc2-17b429ce-88fdcde6-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
    
