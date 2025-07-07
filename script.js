@@ -15,7 +15,7 @@ const mediaFiles = [
    
    {
       name: "©Mlb - José Altuve",
-      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/178a634b-43203bf9-ccedf9de-csvm-diamondgcp-asset.m3u8",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/06/c07da7b5-dc94074a-8ab7b19d-csvm-diamondgcp-asset.m3u8",
       type: "Video"
    },
 
