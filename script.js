@@ -12,6 +12,12 @@ const mediaFiles = [
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/10/1718539d-74c540e5-1d82b3bf-csvm-diamondgcp-asset.m3u8",
       type: "Video"
  },
+
+  { 
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Vídeo"
+    },
  
    {
        name: "©Mlb - Resumen J2 - NYM vs BAL",
