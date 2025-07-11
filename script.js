@@ -22,7 +22,7 @@ const mediaFiles = [
    {
        name: "©Mlb - Resumen J2 - NYM vs BAL",
         url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/10/e64b7ab9-6e006c07-4cd986bc-csvm-diamondgcp-asset.m3u8", 
-        type: ""
+        type: "Vedos"
    },
   {
       name: "©Mlb - Resumen J1 - NYM vs BAL",
