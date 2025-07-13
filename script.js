@@ -8,6 +8,12 @@ const mediaFiles = [
    },
  
  {
+     name: "©Mlb - José Altuve",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/a1af7651-fdf59d8c-eaa037d9-csvm-diamondgcp-asset.m3u8",
+     type: "Video"
+ },
+ 
+ {
       name: "©Mlb - Resumen NYM vs KC",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/efb7b1e2-8c2bc653-33090c3a-csvm-diamondgcp-asset.m3u8",
        type: "Video"
