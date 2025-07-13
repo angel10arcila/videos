@@ -6,6 +6,12 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
+ 
+ {
+      name: "©Mlb - Ronald Acuña",
+       url: "https://www.mlbstatic.com/mlb.com/mlbtv/video/autoplay-test.mp4",
+      type: "Video"
+ },
  {
      name: "©Mlb - Resumen ATL vs STL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/29ab6c5f-ac2653d3-cc1e2a2e-csvm-diamondgcp-asset.m3u8",
