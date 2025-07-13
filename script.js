@@ -8,6 +8,11 @@ const mediaFiles = [
    },
  
  {
+      name: "©Mlb - Resumen NYM vs KC",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/efb7b1e2-8c2bc653-33090c3a-csvm-diamondgcp-asset.m3u8",
+       type: "Video"
+ },
+ {
       name: "©Mlb - Ronald Acuña",
        url: "https://www.mlbstatic.com/mlb.com/mlbtv/video/autoplay-test.mp4",
       type: "Video"
