@@ -6,7 +6,11 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
- 
+ {
+      name: "©Mlb - Resumen NYM vs KC",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/11/3e65db58-dd71a44f-c5568151-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
  {
      name: "©Mlb - Resumen ATL vs ATH",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/10/1718539d-74c540e5-1d82b3bf-csvm-diamondgcp-asset.m3u8",
