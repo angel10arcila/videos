@@ -7,12 +7,17 @@ const mediaFiles = [
       type: "..."
    },
 
- {
-      name: "©Mlb - Resumen TEX vs HOU",
-       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/fbd388ab-1bdbc2c1-c8727b48-csvm-diamondgcp-asset.m3u8",
+   {
+       name: "©Mlb - Resumen TEX vs HOU",
+        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/fbd388ab-1bdbc2c1-c8727b48-csvm-diamondgcp-asset.m3u8",
        type: "Video"
- },
- {
+   },
+   { 
+        name: "Halcones de Venezuela",
+        url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/HdVzla.mp4",
+        type: "Vídeo"
+    },
+   {
      name: "©Mlb - Resumen TEX vs HOU",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/d12b7628-81ddd5ac-296f9645-csvm-diamondgcp-asset.m3u8",
       type: "Video"
