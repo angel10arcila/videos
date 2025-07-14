@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
  {
+     name: "©Mlb - Draf-2025",
+      url: "https://adhoc-hlslive-fst-gcp.mlb.com/bdfde92f-ecc8-439a-99d1-a3940110f657/LIVE-2025-MLB-Draft-Day-2.m3u8",
+     type: "Video"
+ },
+ {
      name: "©Mlb - Resumen ATL vs STL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/40ce16a9-2bc6227c-bbf44e05-csvm-diamondgcp-asset.m3u8",
        type: "Video"
