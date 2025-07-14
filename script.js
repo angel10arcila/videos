@@ -6,13 +6,19 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
+ 
+ {
+      name: "©Mlb - Jackson Chourio",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/19cd1d81-adbfe9f4-840ff5a1-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
  {
       name: "©Mlb - All-Star Celebrity Softball",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/951d1306-db3bb95f-7c4f50cd-csvm-diamondgcp-asset.m3u8",
       type: "Video"
  },
  {
-     name: "©Mlb - Draf-2025",
+     name: "©Mlb - Draft-2025",
       url: "https://adhoc-hlslive-fst-gcp.mlb.com/bdfde92f-ecc8-439a-99d1-a3940110f657/LIVE-2025-MLB-Draft-Day-2.m3u8",
      type: "Video"
  },
