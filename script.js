@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
  {
+      name: "©Mlb - All-Star Celebrity Softball",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/12/951d1306-db3bb95f-7c4f50cd-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
+ {
      name: "©Mlb - Draf-2025",
       url: "https://adhoc-hlslive-fst-gcp.mlb.com/bdfde92f-ecc8-439a-99d1-a3940110f657/LIVE-2025-MLB-Draft-Day-2.m3u8",
      type: "Video"
