@@ -7,6 +7,12 @@ const mediaFiles = [
       type: "..."
    },
  
+  {
+     name: "©Mlb - Home Run Derby",
+     url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/14/4ec5852a-e38700c3-84601aa2-csvm-diamondgcp-asset.m3u8",
+     type: "Video"
+ },
+ 
  {
       name: "©Mlb - Jackson Chourio",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/13/19cd1d81-adbfe9f4-840ff5a1-csvm-diamondgcp-asset.m3u8",
