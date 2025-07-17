@@ -6,7 +6,13 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
- 
+
+ {
+     name: "©Mlb - All-Star Game",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/15/5480dece-ef315b35-6c107b5e-csvm-diamondgcp-asset.m3u8",
+     type: "Video"
+ },
+
   {
      name: "©Mlb - Home Run Derby",
      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/14/4ec5852a-e38700c3-84601aa2-csvm-diamondgcp-asset.m3u8",
