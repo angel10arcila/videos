@@ -6,7 +6,11 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
-
+ {
+      name: "©Mlb - Ronald Acuña',
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/0d60c4c3-1aa622c5-67ce49a6-csvm-diamondgcp-asset.m3u8",
+       type: "Video"
+ },
  {
       name: "©Mlb - Resumen CIN vs NYM",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/d8927bbc-a6d0e382-b9ac83f1-csvm-diamondgcp-asset.m3u8",
