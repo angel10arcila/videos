@@ -8,6 +8,12 @@ const mediaFiles = [
    },
 
  {
+      name: "©Mlb - Resumen CIN vs NYM",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/d8927bbc-a6d0e382-b9ac83f1-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
+
+ {
      name: "©Mlb - All-Star Game",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/15/5480dece-ef315b35-6c107b5e-csvm-diamondgcp-asset.m3u8",
      type: "Video"
