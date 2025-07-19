@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
  {
+      name: "©Mlb - Resumen SEA vs HOU",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/e018507a-f07980c2-04af0cdf-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
+ {
       name: "©Mlb - Ronald Acuña",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/0d60c4c3-1aa622c5-67ce49a6-csvm-diamondgcp-asset.m3u8",
        type: "Video"
