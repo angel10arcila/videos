@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
  {
+      name: "©Mlb - Resumen CIN vs NYM",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/19/c931e03a-fa9ee02c-5c912376-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+ },
+ {
       name: "©Mlb - Resumen SEA vs HOU",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/18/e018507a-f07980c2-04af0cdf-csvm-diamondgcp-asset.m3u8",
       type: "Video"
