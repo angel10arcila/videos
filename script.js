@@ -1,4 +1,4 @@
- // Configuración de medios predefinidos
+  // Configuración de medios predefinidos
 const mediaFiles = [
 
    {
@@ -6,7 +6,11 @@ const mediaFiles = [
       url: "https://raw.githubusercontent.com/angel10arcila/videos/refs/heads/main/venearci-intro-video3.mp4",
       type: "..."
    },
- 
+   {
+      name: "©Mlb - Ronald Acuña",
+       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/100797d1-e222b8b5-e66b57fa-csvm-diamondgcp-asset.m3u8",
+      type: 'Video"
+   },
   {  
    name: "©Mlb - Resumen CIN vs NYM",
     url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/46a804cd-530abf87-8abf9c31-csvm-diamondgcp-asset.m3u8",
