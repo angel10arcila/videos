@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
    {
+      name: "©Mlb - Resumen LAA vs NYM",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/a9fff383-b43a6467-dbc4913e-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   {
       name: "©Mlb - Ronald Acuña",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/f048b73f-2c9165e4-1e2f4f88-csvm-diamondgcp-asset.m3u8",
       type: "Video"
