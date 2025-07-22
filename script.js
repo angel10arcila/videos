@@ -18,7 +18,7 @@ const mediaFiles = [
    {
       name: "©Mlb - Ronald Acuña",
        url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/20/100797d1-e222b8b5-e66b57fa-csvm-diamondgcp-asset.m3u8",
-      type: 'Video"
+      type: "Video"
    },
    
   {  
