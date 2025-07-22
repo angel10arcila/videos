@@ -142,5 +142,3 @@ mediaPlayer.addEventListener('error', (e) => {
 
 // Inicializar
 initPlayer();
-
-  
