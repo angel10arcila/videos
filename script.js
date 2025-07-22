@@ -7,6 +7,11 @@ const mediaFiles = [
       type: "..."
    },
    {
+      name: "©Mlb - Ronald Acuña",
+      url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/f048b73f-2c9165e4-1e2f4f88-csvm-diamondgcp-asset.m3u8",
+      type: "Video"
+   },
+   {
       name: "©Mlb - Resumen SF - ATL",
       url: "https://mlb-cuts-diamond.mlb.com/FORGE/2025/2025-07/21/5f23bf4e-dd810404-aa0951df-csvm-diamondgcp-asset.m3u8",
       type: "Video"
